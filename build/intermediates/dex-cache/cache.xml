@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ABC\Downloads\Material-Profile-master\FlashyFingers\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="06258a70e48e9dc2743428ab07cbcee4f39edefb">
+        <dex dex="C:\Users\ABC\Downloads\Material-Profile-master\FlashyFingers\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1034e9fcec2891cdd74f9a7527ecd72296dbec0b\classes.dex" />
+    </item>
+
+</items>
